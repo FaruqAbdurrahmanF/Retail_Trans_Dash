@@ -13,3 +13,5 @@ Some of the desired requirements are:
 •	Knowing which products sell the most;
 •	Knowing spending for discounts;
 •	A summary of transactions for each product and consumer.
+
+Link Dashboard : https://lookerstudio.google.com/reporting/c29fe1c3-89ab-489c-a378-dadfb2a8197c
