@@ -5,10 +5,11 @@ The dashboard empowers stakeholders to monitor and analyze transactions in a ret
 
 ## Project Overview
 “Retail Transaction Dashboard” utilizes a Dataset containing retail store transaction data. The dataset includes information such as purchase time, item price, transaction volume, purchase discount, payment method, product name sold and product category.
+
 Some of the desired requirements are:
-•	Showing overall transaction performance
-•	Knowing sales trends
-•	Knowing the performance of each payment method
-•	Knowing which products sell the most
-•	Knowing spending for discounts
-•	A summary of transactions for each product and consumer
+•	Showing overall transaction performance;
+•	Knowing sales trends;
+•	Knowing the performance of each payment method;
+•	Knowing which products sell the most;
+•	Knowing spending for discounts;
+•	A summary of transactions for each product and consumer.
